@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "rnsmod",
+	"version": "1.0.0",
+	"name": "RNS-MOD2",
+	"description": "ruby and sapphire",
+	"authors": [
+		"marcello"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/matamarcello/RNS-MOD-1.21.4"
+	},
+	"license": "MIT",
+	"icon": "assets/rnsmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.rnsmod.RNSMOD2"
+		],
+		"fabric-datagen": [
+			"com.rnsmod.RNSMOD2DataGenerator"
+		],
+		"client": [
+			"com.rnsmod.RNSMOD2Client"
+		]
+	},
+	"mixins": [
+		"rnsmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
