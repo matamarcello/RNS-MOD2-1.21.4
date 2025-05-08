@@ -1,5 +1,8 @@
 package com.rnsmod;
 
+import com.rnsmod.block.ModBlocks;
+import com.rnsmod.item.ModItemGroups;
+import com.rnsmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -12,8 +15,8 @@ public class RNSMOD2 implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
-
-		LOGGER.info("Hello Fabric world!");
-	}
+		ModItems.initialize();
+		ModBlocks.initialize();
+		ModItemGroups.registerItemGroups();
+		}
 }

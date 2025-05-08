@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "rnsmod:block/block_of_ruby"
+    }
+  }
+}

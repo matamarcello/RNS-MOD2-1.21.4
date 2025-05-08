@@ -1,0 +1,19 @@
+{
+  "block.rnsmod.block_of_ruby": "Block of Ruby",
+  "block.rnsmod.ruby_ore": "Ruby Ore",
+  "item.rnsmod.ruby": "Ruby",
+  "item.rnsmod.ruby_axe": "Ruby Axe",
+  "item.rnsmod.ruby_boots": "Ruby Boots",
+  "item.rnsmod.ruby_chestplate": "Ruby Chestplate",
+  "item.rnsmod.ruby_helmet": "Ruby Helmet",
+  "item.rnsmod.ruby_hoe": "Ruby Hoe",
+  "item.rnsmod.ruby_leggings": "Ruby Leggings",
+  "item.rnsmod.ruby_pickaxe": "Ruby Pickaxe",
+  "item.rnsmod.ruby_shovel": "Ruby Shovel",
+  "item.rnsmod.ruby_sword": "Ruby Sword",
+  "item.rnsmod.sapphire": "Sapphire",
+  "item.rnsmod.block_of_ruby": "Block of Ruby",
+  "item.rnsmod.ruby_ore": "Ruby Ore",
+  "itemgroup.rnsmod.ruby_items": "Ruby Items",
+  "itemgroup.rnsmod.sapphire_items": "Sapphire Items"
+}
