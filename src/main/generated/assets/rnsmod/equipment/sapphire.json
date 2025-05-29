@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "rnsmod:sapphire"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "rnsmod:sapphire"
+      }
+    ]
+  }
+}

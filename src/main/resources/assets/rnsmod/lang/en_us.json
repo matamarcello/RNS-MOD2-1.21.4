@@ -1,5 +1,5 @@
 {
-  "block.rnsmod.block_of_ruby": "Block of Ruby",
+  "block.rnsmod.ruby_block": "Block of Ruby",
   "block.rnsmod.ruby_ore": "Ruby Ore",
   "item.rnsmod.ruby": "Ruby",
   "item.rnsmod.ruby_axe": "Ruby Axe",
@@ -11,9 +11,24 @@
   "item.rnsmod.ruby_pickaxe": "Ruby Pickaxe",
   "item.rnsmod.ruby_shovel": "Ruby Shovel",
   "item.rnsmod.ruby_sword": "Ruby Sword",
-  "item.rnsmod.sapphire": "Sapphire",
-  "item.rnsmod.block_of_ruby": "Block of Ruby",
-  "item.rnsmod.ruby_ore": "Ruby Ore",
   "itemgroup.rnsmod.ruby_items": "Ruby Items",
-  "itemgroup.rnsmod.sapphire_items": "Sapphire Items"
+  "item.rnsmod.ruby_block": "Block of Ruby",
+  "item.rnsmod.ruby_ore": "Ruby Ore",
+
+
+  "block.rnsmod.sapphire_block": "Block of Sapphire",
+  "block.rnsmod.sapphire_ore": "Sapphire Ore",
+  "item.rnsmod.sapphire": "Sapphire",
+  "item.rnsmod.sapphire_axe": "Sapphire Axe",
+  "item.rnsmod.sapphire_boots": "Sapphire Boots",
+  "item.rnsmod.sapphire_chestplate": "Sapphire Chestplate",
+  "item.rnsmod.sapphire_helmet": "Sapphire Helmet",
+  "item.rnsmod.sapphire_hoe": "Sapphire Hoe",
+  "item.rnsmod.sapphire_leggings": "Sapphire Leggings",
+  "item.rnsmod.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.rnsmod.sapphire_shovel": "Sapphire Shovel",
+  "item.rnsmod.sapphire_sword": "Sapphire Sword",
+  "itemgroup.rnsmod.sapphire_items": "Sapphire Items",
+  "item.rnsmod.sapphire_block": "Block of Sapphire",
+  "item.rnsmod.sapphire_ore": "Sapphire Ore"
 }

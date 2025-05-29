@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "rnsmod:block/sapphire_block"
+    }
+  }
+}
